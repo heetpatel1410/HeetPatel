@@ -3,26 +3,50 @@
 🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  
 ⚡ Passionate about ** Embedded Systems | IoT | VLSI | PCB Design **  
 💻 Skilled in ** Arduino UNO, ESP32/8266, C/C++ **  
-📡 Exploring ** Verilog, MATLAB **  
 
 ---
+## 🎓 Education  
 
-## 🚀 What I have done 
-- 🔌 Designed & Developed **IoT Projects** (ESP32, ESP8266, Arduino)  
-- 🔧 Worked on **Firmware Development** for custom boards  
+- **B.E. Electronics & Communication Engineering** (Pursuing)  
+  GTU – Gujarat Technological University *(2025 – 2028)*  
+  📍 Ahmedabad, Gujarat  
+
+- **Diploma in Electronics & Communication Engineering**
+  Dayananda Sagar Institute of Technology *(2022 – 2025)* 
+  Merit: ** 9.6 CGPA
+  📍  Bengaluru, Karnataka
+  
+---
+## 🚀 Skills  
+- **Programming:** C, C++, Verilog HDL, MATLAB  
+- **Embedded Systems:** Arduino UNO, ESP32, ESP8266  
+- **IoT & Networking:** Blynk Cloud, IoT Automation  
+- **Tools:** Design Spark (PCB Design), Proteus (circuit simulator)
 
 ---
 
 ## 📂 Projects Highlight  
-- 🌱 **Smart Home Monitoring + Irrigation System** (IoT + Wi-Fi Camera)  
+- 🌱 **Smart Home Automation and Smart Irrigation System** (ESP32 and Blynk IoT cloud)
 - 🔊 **Sound-Buzzing Rat Repellerusing 555 Timer IC** (Car battery powered)  
-- 🚗 **Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor)  
+- 🚗 **Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor)
 
 ---
 
-## 🏆 Achievements  
-- 🥇 ** Department Topper (Diploma ECE) **  
-- 🛠 Assistant Resource Person at SST Technology – Conducted IoT Workshops  
+## 💼 Experience  
+
+### 🔹 SST Technology – **IoT Mastery Internship**  
+📅 *Jan 2025 – March 2025*  
+- Worked on **firmware development** on Custom developed boards  
+- Prototyped IoT projects: **Home Automation using IoT blynk cloud and ESP32**.  
+- Designed & documented a **development board from scratch** (circuit design → PCB layout → testing).  
+
+---
+
+### 🔹 SST Technology – **Assistant Resource Person**  
+📅 *Jan 2025 - March 2025*  
+- Conducted **IoT workshops** for college students.  
+- Assisted in **training and guiding interns** in embedded systems & IoT.  
+- Helped in **knowledge transfer of firmware development & hardware prototyping**.
 
 ---
 

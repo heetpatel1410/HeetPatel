@@ -2,7 +2,6 @@
 
 🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  
 ⚡ Passionate about ** Embedded Systems | IoT | VLSI | PCB Design **  
-💻 Skilled in ** Arduino UNO, ESP32/8266, C/C++ **  
 
 ---
 ## 🎓 Education  

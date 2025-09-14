@@ -12,7 +12,7 @@
   📍 Ahmedabad, Gujarat  
 
 - **Diploma in Electronics & Communication Engineering**
-  Dayananda Sagar Institute of Technology *(2022 – 2025)* 
+  Dayananda Sagar Institute of Technology *(2022 – 2025)*
   Merit: ** 9.6 CGPA
   📍  Bengaluru, Karnataka
   

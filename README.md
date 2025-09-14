@@ -7,28 +7,28 @@
 ---
 ## 🎓 Education  
 
-- **B.E. Electronics & Communication Engineering** (Pursuing)  
-  GTU – Gujarat Technological University *(2025 – 2028)*  
+- B.E. Electronics & Communication Engineering (Pursuing)  
+  GTU – Gujarat Technological University (2025 – 2028)  
   📍 Ahmedabad, Gujarat  
 
-- **Diploma in Electronics & Communication Engineering**
-  Dayananda Sagar Institute of Technology *(2022 – 2025)*
+- Diploma in Electronics & Communication Engineering
+  Dayananda Sagar Institute of Technology (2022 – 2025)
   Merit: ** 9.6 CGPA
   📍  Bengaluru, Karnataka
   
 ---
 ## 🚀 Skills  
-- **Programming:** C, C++, Verilog HDL, MATLAB  
-- **Embedded Systems:** Arduino UNO, ESP32, ESP8266  
-- **IoT & Networking:** Blynk Cloud, IoT Automation  
-- **Tools:** Design Spark (PCB Design), Proteus (circuit simulator)
+- **Programming        : C, C++, Verilog HDL, MATLAB  
+- **Embedded Systems   : Arduino UNO, ESP32, ESP8266  
+- **IoT                : Blynk IoT Cloud  
+- **Tools              : Design Spark (PCB Design), Proteus (circuit simulator)
 
 ---
 
 ## 📂 Projects Highlight  
 - 🌱 **Smart Home Automation and Smart Irrigation System** (ESP32 and Blynk IoT cloud)
-- 🔊 **Sound-Buzzing Rat Repellerusing 555 Timer IC** (Car battery powered)  
-- 🚗 **Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor)
+- 🔊 **Prototyped "Sound-Buzzing Rat Repeller" using 555 Timer IC** (Car battery powered)  
+- 🚗 **Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor + L293D motor driver)
 
 ---
 
@@ -36,7 +36,7 @@
 
 ### 🔹 SST Technology – **IoT Mastery Internship**  
 📅 *Jan 2025 – March 2025*  
-- Worked on **firmware development** on Custom developed boards  
+- Worked on **firmware development** on Custom developed boards by SST Technologies. 
 - Prototyped IoT projects: **Home Automation using IoT blynk cloud and ESP32**.  
 - Designed & documented a **development board from scratch** (circuit design → PCB layout → testing).  
 

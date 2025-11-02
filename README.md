@@ -11,10 +11,7 @@
   ( Affiliated by GTU – Gujarat Technological University)
   📍 Ahmedabad, Gujarat  
 
-- Diploma in Electronics & Communication Engineering
-  Dayananda Sagar Institute of Technology (2022 – 2025)
-  Merit: 9.6 CGPA
-  📍  Bengaluru, Karnataka
+- Diploma in Electronics & Communication Engineering                                                                                                                                                                  Dayananda Sagar Institute of Technology (2022 – 2025)                                                                                                                                                               Merit: 9.6 CGPA                                                                                                                                                                                                     📍  Bengaluru, Karnataka
   
 ---
 ## 🚀 Skills  

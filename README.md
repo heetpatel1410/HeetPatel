@@ -26,9 +26,9 @@
 ---
 
 ## 📂 Projects Highlight  
-- 🌱 Smart Home Automation and Smart Irrigation System** (ESP32 and Blynk IoT cloud)
-- 🔊 Prototyped "Sound-Buzzing Rat Repeller" using 555 Timer IC** (Car battery powered)  
-- 🚗 Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor + L293D motor driver)
+- 🌱 Smart Home Automation and Smart Irrigation System (ESP32 and Blynk IoT cloud)
+- 🔊 Prototyped "Sound-Buzzing Rat Repeller" using 555 Timer IC (Car battery powered)  
+- 🚗 Obstacle Avoiding Car (Arduino + Ultrasonic Sensor + L293D motor driver)
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Heet Patel  
 
 🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  
-⚡ Passionate about ** Embedded Systems | IoT | VLSI | PCB Design **  
+⚡ Passionate about ** Embedded Systems | IoT | VLSI **  
 
 ---
 ## 🎓 Education  

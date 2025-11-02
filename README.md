@@ -18,7 +18,7 @@
   
 ---
 ## 🚀 Skills  
-- **Programming        : C, C++, Verilog HDL, MATLAB  
+- **Programming        : C, C++, Verilog HDL,  
 - **Embedded Systems   : Arduino UNO, ESP32, ESP8266  
 - **IoT                : Blynk IoT Cloud  
 - **Tools              : Design Spark (PCB Design), Proteus (circuit simulator)

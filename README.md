@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Heet Patel  
 
 🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  
-⚡ Passionate about ** Embedded Systems | IoT | VLSI **  
+⚡ Passionate about Embedded Systems | IoT | VLSI  
 
 ---
 ## 🎓 Education  
@@ -13,40 +13,40 @@
 
 - Diploma in Electronics & Communication Engineering
   Dayananda Sagar Institute of Technology (2022 – 2025)
-  Merit: ** 9.6 CGPA
+  Merit: 9.6 CGPA
   📍  Bengaluru, Karnataka
   
 ---
 ## 🚀 Skills  
-- **Programming        : C, C++, Verilog HDL,  
-- **Embedded Systems   : Arduino UNO, ESP32, ESP8266  
-- **IoT                : Blynk IoT Cloud  
-- **Tools              : Design Spark (PCB Design), Proteus (circuit simulator)
+- Programming        : C, C++, Verilog HDL,  
+- Embedded Systems   : Arduino UNO, ESP32, ESP8266  
+- IoT                : Blynk IoT Cloud  
+- Tools              : Design Spark (PCB Design), Proteus (circuit simulator)
 
 ---
 
 ## 📂 Projects Highlight  
-- 🌱 **Smart Home Automation and Smart Irrigation System** (ESP32 and Blynk IoT cloud)
-- 🔊 **Prototyped "Sound-Buzzing Rat Repeller" using 555 Timer IC** (Car battery powered)  
-- 🚗 **Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor + L293D motor driver)
+- 🌱 Smart Home Automation and Smart Irrigation System** (ESP32 and Blynk IoT cloud)
+- 🔊 Prototyped "Sound-Buzzing Rat Repeller" using 555 Timer IC** (Car battery powered)  
+- 🚗 Obstacle Avoiding Car** (Arduino + Ultrasonic Sensor + L293D motor driver)
 
 ---
 
 ## 💼 Experience  
 
-### 🔹 SST Technology – **IoT Mastery Internship**  
-📅 *Jan 2025 – March 2025*  
-- Worked on **firmware development** on Custom developed boards by SST Technologies. 
-- Prototyped IoT projects: **Home Automation using IoT blynk cloud and ESP32**.  
-- Designed & documented a **development board from scratch** (circuit design → PCB layout → testing).  
+### 🔹 SST Technology – IoT Mastery Internship  
+📅 Jan 2025 – March 2025  
+- Worked on firmware development on Custom developed boards by SST Technologies. 
+- Prototyped IoT projects: Home Automation using IoT blynk cloud and ESP32.  
+- Designed & documented a development board from scratch (circuit design → PCB layout → testing).  
 
 ---
 
-### 🔹 SST Technology – **Assistant Resource Person**  
+### 🔹 SST Technology – Assistant Resource Person 
 📅 *Jan 2025 - March 2025*  
-- Conducted **IoT workshops** for college students.  
-- Assisted in **training and guiding interns** in embedded systems & IoT.  
-- Helped in **knowledge transfer of firmware development & hardware prototyping**.
+- Assisted IoT workshops for different colleges over 200+ students.  
+- Trained and guided interns in embedded systems & IoT.  
+- Helped in knowledge transfer of firmware development & hardware prototyping.
 
 ---
 

@@ -7,7 +7,8 @@
 ## 🎓 Education  
 
 - B.E. Electronics & Communication Engineering (Pursuing)  
-  GTU – Gujarat Technological University (2025 – 2028)  
+  L.D. College of Engineering (2025 – 2028) 
+  ( Affiliated by GTU – Gujarat Technological University)
   📍 Ahmedabad, Gujarat  
 
 - Diploma in Electronics & Communication Engineering

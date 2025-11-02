@@ -41,8 +41,8 @@
 
 ### 🔹 SST Technology – Assistant Resource Person 
 📅 *Jan 2025 - March 2025*  
-- Assisted IoT workshops for different colleges over 200+ students.  
-- Trained and guided interns in embedded systems & IoT.  
+- Assisted IoT workshops for different colleges.  
+- Trained and guided over 200+ students in embedded systems & IoT.  
 - Helped in knowledge transfer of firmware development & hardware prototyping.
 
 ---

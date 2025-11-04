@@ -2,7 +2,7 @@
 <h3 align="center">Electronics & Communication Engineer | IoT, Embedded Systems and VLSI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/heetpatel1410/HEETPATEL?size=200" alt="Heet Patel" width="200" style="border-radius:50%">
+ <img src="https://avatars.githubusercontent.com/heetpatel1410" alt="Heet Patel" width="200" style="border-radius:50%">
 </p>
 
 <p align="center">

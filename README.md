@@ -11,7 +11,7 @@
 
 👨‍💻 About Me
 
-🌱 I’m currently pursuing B.E. in Electronics and Communication Engineering (GTU, 2025–28)
+🌱 I’m currently pursuing B.E. in Electronics and Communication Engineering (GTU, 2025–28)   
 💡 Interested in Embedded Systems, IoT, and VLSI Design
 ---
 ## 🎓 Education  

@@ -4,17 +4,14 @@
        style="border-radius: 50%;" 
        alt="Heet Patel" />
 </p>
-
-
 <h1 align="center">Heet Patel</h1>
-
----
-
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/heet-patel-ece"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/heetpatel1410" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/heet-patel-ece">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="https://github.com/heetpatel1410">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github" />
   </a>
 </p>
 

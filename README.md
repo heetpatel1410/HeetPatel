@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Heet Patel</h1>
-<h3 align="center">Electronics & Communication Engineer | IoT, Embedded Systems and VLSI Enthusiast</h3>
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/heetpatel1410" 
-       alt="Heet Patel" 
+  <img src="https://github.com/heetpatel1410/heetpatel1410/blob/main/profile.jpg" 
        width="200" 
-       style="border-radius: 50%; border: 3px solid #0d1117;" />
+       style="border-radius: 50%;" 
+       alt="Heet Patel" />
 </p>
 
+<h1 align="center">Heet Patel</h1>
+
+---
+
+<!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/heet-patel-ece"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
- <a href="https://github.com/heetpatel1410"><img src="https://img.shields.io/github/followers/heetpatel?label=Follow&style=social" /></a></p>
+  <a href="https://github.com/heetpatel1410" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
 
 # 👋 Hi, I’m Heet Patel  
 

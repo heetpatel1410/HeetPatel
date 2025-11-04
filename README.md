@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
   </a>
   <a href="https://github.com/heetpatel1410">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-grey?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-darkgrey?logo=github" />
   </a>
 </p>
 

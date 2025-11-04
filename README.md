@@ -11,8 +11,8 @@
 
 👨‍💻 About Me
 
-🌱 I’m currently pursuing B.E. in Electronics and Communication Engineering   
-💡 Interested in Embedded Systems, IoT, and VLSI Design
+**🌱 I’m currently pursuing B.E. in Electronics and Communication Engineering   
+💡 Interested in Embedded Systems, IoT, and VLSI Design**
 ---
 ## 🎓 Education  
 

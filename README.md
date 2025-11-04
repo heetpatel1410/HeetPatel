@@ -7,8 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heetpatel"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/heetpatel"><img src="https://img.shields.io/github/followers/heetpatel?label=Follow&style=social" /></a>
-  <a href="https://www.instagram.com/heet.exe"><img src="https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram" /></a>
+  <a href="https://github.com/heetpatel1410"><img src="https://img.shields.io/github/followers/heetpatel?label=Follow&style=social" /></a>
 </p>
 
 # 👋 Hi, I’m Heet Patel  

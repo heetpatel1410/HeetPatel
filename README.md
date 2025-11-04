@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/173440045?s=400&u=1a7c0e83fbb89d17a83f979a15ce8ea27ccf5179&v=4" 
-       width="200" 
-       style="border-radius: 50%;" 
-       alt="Heet Patel" />
-</p>
 <h1 align="center">Heet Patel</h1>
 <!-- Social Badges -->
 <p align="center">

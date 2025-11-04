@@ -9,9 +9,10 @@
   </a>
 </p>
 
-🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  
-⚡ Passionate about Embedded Systems | IoT | VLSI  
+👨‍💻 About Me
 
+🌱 I’m currently pursuing B.E. in Electronics and Communication Engineering (GTU, 2025–28)
+💡 Interested in Embedded Systems, IoT, and VLSI Design
 ---
 ## 🎓 Education  
 

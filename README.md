@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Heet Patel</h1>
+<h3 align="center">Electronics & Communication Engineer | IoT, Embedded Systems and VLSI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/HEETPATEL?size=200" alt="Heet Patel" width="200" style="border-radius:50%">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heetpatel"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://github.com/heetpatel"><img src="https://img.shields.io/github/followers/heetpatel?label=Follow&style=social" /></a>
+  <a href="https://www.instagram.com/heet.exe"><img src="https://img.shields.io/badge/Instagram-Follow-orange?logo=instagram" /></a>
+</p>
+
 # 👋 Hi, I’m Heet Patel  
 
 🎓 Electronics & Communication Engineering Student (GTU, 2025–28)  

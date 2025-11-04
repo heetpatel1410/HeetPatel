@@ -2,13 +2,15 @@
 <h3 align="center">Electronics & Communication Engineer | IoT, Embedded Systems and VLSI Enthusiast</h3>
 
 <p align="center">
- <img src="https://avatars.githubusercontent.com/heetpatel1410" alt="Heet Patel" width="200" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/heetpatel1410" 
+       alt="Heet Patel" 
+       width="200" 
+       style="border-radius: 50%; border: 3px solid #0d1117;" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heet-patel-ece"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://github.com/heetpatel1410"><img src="https://img.shields.io/github/label=Follow&style=social" /></a>
-</p>
+ <a href="https://github.com/heetpatel1410"><img src="https://img.shields.io/github/followers/heetpatel?label=Follow&style=social" /></a></p>
 
 # 👋 Hi, I’m Heet Patel  
 
